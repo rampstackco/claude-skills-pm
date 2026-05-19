@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/hero.svg" alt="Claude Skills PM" width="800"/>
+</p>
+
 # Claude Skills PM
 
 A focused 12-skill product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full 99-skill catalog.
@@ -9,6 +13,14 @@ Product management is its own discipline with established frameworks: JTBD, OKRs
 This repo packages the universally-applicable PM workflows from the full claude-skills catalog into a focused set. Load it in Claude Code and your sessions are focused on PM operations: discovery, planning, specification, execution, launch, measurement.
 
 When you need adjacent disciplines (SEO, design, content, dev), pair with the other repos in the family.
+
+## The PM lifecycle
+
+<p align="center">
+  <img src="assets/images/workflow.svg" alt="PM lifecycle: Discovery, Planning, Execution, Launch, Measure" width="800"/>
+</p>
+
+The 12 skills map to the 5 phases of the product management lifecycle. Skills within each phase can be used independently; the phases themselves typically run sequentially within a single product or feature cycle.
 
 ## What's included
 

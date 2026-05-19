@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- Background -->
+  <rect width="800" height="200" fill="#0f172a" rx="12"/>
+
+  <!-- Grid pattern + arrowhead marker -->
+  <defs>
+    <pattern id="wfgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect width="800" height="200" fill="url(#wfgrid)" opacity="0.6"/>
+
+  <!-- 5 phase circles. Centers at x = 80, 220, 400, 580, 720; y = 90 -->
+  <!-- Connecting lines (drawn first so circles render on top) -->
+  <line x1="115" y1="90" x2="185" y2="90" stroke="#475569" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="255" y1="90" x2="365" y2="90" stroke="#475569" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="435" y1="90" x2="545" y2="90" stroke="#475569" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="615" y1="90" x2="685" y2="90" stroke="#475569" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Phase 1: Discovery (blue) -->
+  <circle cx="80" cy="90" r="32" fill="#1e40af" opacity="0.3" stroke="#1e40af" stroke-width="2"/>
+  <text x="80" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#93c5fd">2</text>
+  <text x="80" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Discovery</text>
+  <text x="80" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">jtbd, research</text>
+
+  <!-- Phase 2: Planning (purple) -->
+  <circle cx="220" cy="90" r="32" fill="#7c3aed" opacity="0.3" stroke="#7c3aed" stroke-width="2"/>
+  <text x="220" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#c4b5fd">3</text>
+  <text x="220" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Planning</text>
+  <text x="220" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">roadmap, OKRs, spec</text>
+
+  <!-- Phase 3: Execution (orange) -->
+  <circle cx="400" cy="90" r="32" fill="#ea580c" opacity="0.3" stroke="#ea580c" stroke-width="2"/>
+  <text x="400" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#fdba74">3</text>
+  <text x="400" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Execution</text>
+  <text x="400" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">stakeholders, onboard, vendors</text>
+
+  <!-- Phase 4: Launch (red) -->
+  <circle cx="580" cy="90" r="32" fill="#dc2626" opacity="0.3" stroke="#dc2626" stroke-width="2"/>
+  <text x="580" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#fca5a5">2</text>
+  <text x="580" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Launch</text>
+  <text x="580" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">launch, beta</text>
+
+  <!-- Phase 5: Measure (green) -->
+  <circle cx="720" cy="90" r="32" fill="#059669" opacity="0.3" stroke="#059669" stroke-width="2"/>
+  <text x="720" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#6ee7b7">2</text>
+  <text x="720" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Measure</text>
+  <text x="720" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">feedback, retros</text>
+</svg>
