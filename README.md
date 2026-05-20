@@ -4,6 +4,9 @@
 
 # Claude Skills PM
 
+[![Skills](https://img.shields.io/badge/Skills-12-blue.svg)](#whats-included)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A focused 12-skill product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full 99-skill catalog.
 
 ## Why a PM-focused subset
