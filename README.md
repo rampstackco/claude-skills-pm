@@ -7,7 +7,7 @@
 [![Skills](https://img.shields.io/badge/Skills-12-blue.svg)](#whats-included)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A focused 12-skill product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full 99-skill catalog.
+A focused 12-skill product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full 102-skill catalog.
 
 ## Why a PM-focused subset
 
@@ -82,7 +82,7 @@ Reach for the full [claude-skills](https://github.com/rampstackco/claude-skills)
 - **Adjacent skills**: experiment design, experimentation analytics, internationalization, vendor procurement for technical infrastructure
 - **Cross-discipline coordination at scale**: when one initiative spans multiple skill domains
 
-The full catalog covers 99 skills across 16 categories. This PM subset covers 12 of them.
+The full catalog covers 102 skills across 16 categories. This PM subset covers 12 of them.
 
 ## Family repos
 
@@ -90,7 +90,7 @@ This catalog is part of the Claude Skills family. Other family repos:
 
 | Repo | Focus | Skills |
 |---|---|---|
-| [claude-skills](https://github.com/rampstackco/claude-skills) | Full catalog | 99 |
+| [claude-skills](https://github.com/rampstackco/claude-skills) | Full catalog | 102 |
 | [claude-skills-starter](https://github.com/rampstackco/claude-skills-starter) | General-purpose lite | 14 |
 | [claude-skills-seo](https://github.com/rampstackco/claude-skills-seo) | SEO consulting | 12 |
 | [claude-skills-widgets](https://github.com/rampstackco/claude-skills-widgets) | UI patterns + components | 65 + 32 |
