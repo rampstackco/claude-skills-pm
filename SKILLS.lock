@@ -1,0 +1,100 @@
+{
+  "after-action-report": {
+    "SKILL.md": "400dbe3700c72f90307678897e23df50e13da8047845de0e8d9e3b4b69d3a04d",
+    "references/aar-template.md": "b44409782f5a5cd8840b174b69a1a09ae0bb6b183cea9fab0f35fc2075a3495d"
+  },
+  "beta-program-management": {
+    "SKILL.md": "f71d1ef59125128e0e563d96592282bf2ebd8191e5ad70da1afbca70d143828c",
+    "references/beta-onboarding-templates.md": "b26e5e4b51aafdc116003f28afc781782ba7940eced2edf36942170b6d254c44",
+    "references/beta-to-ga-graduation-criteria.md": "ed1d2dc7ae7c5059b58a1b58ec3eafeb362042aa6c361698936033d9abdc6a58",
+    "references/beta-type-decisions.md": "d4fbbded97849a7dac2da9e11ad57953bf009627c014880d4e8a9d4802175709",
+    "references/beta-wind-down-communication.md": "84ef90d2d9233b6326a5af7d94053dfcd7513dd350aaecc3dad94d8bf050d840",
+    "references/cohort-sizing-patterns.md": "c7738e9ea686846f10310ef589f18ba218753727ec0284efe9135b846ad67d95",
+    "references/common-beta-failures.md": "9e6c4f95c2de91355c994cb20ccf38e584cdf567e3fb79ee17e9e34274b5a081",
+    "references/feedback-collection-patterns.md": "05e0ebf7955661ac6d657d609eae1fb9f9d4a7996a82015f30d55662ce88d73a",
+    "references/mid-beta-triage-and-iteration.md": "3cb40f0cfc04fe560f71e4ada3b3c1f1751ea47b820b4c6f6917719d6b2281b9",
+    "references/participant-selection-criteria.md": "44df76b0dfc1e844a42894e8fa80119801a0a008ef414ad88baabd5083358e8c"
+  },
+  "discovery-research-synthesis": {
+    "SKILL.md": "34ab36ba8b90422b4e0675cbf58d780fc6c15640779e709f67f4a947448c5690",
+    "references/common-discovery-synthesis-failures.md": "a3ccc9e387687b50101d675fc0eddca3cf7615d64da67c62bc2e802f3ec3a20e",
+    "references/from-pattern-to-product-implication.md": "1e442a808a80b8a6d384be0fc62a83b7f449c7c06e39158b02f02c27e1112bf0",
+    "references/pattern-naming-patterns.md": "4a0dac993af33fd4ea5a4a7048a134e108f001a35bb0e2da841b67b79b7d0f50",
+    "references/research-types-and-when-each-fits.md": "07e82fd419d675e2d0940fd36f56ffc08364eeaa981d3fe061c20e3f29cf546b",
+    "references/synthesis-review-and-validation.md": "55b9d40110dbfec28f759348dcb42537937f3babae6e58cf817d428b65f0d7f7",
+    "references/synthesis-sequence-walkthrough.md": "6ec16de67debc4f054f456ffe19f26f4ecb26e52518e8e9c9beca1bb0725e29d",
+    "references/tagging-and-clustering-discipline.md": "1210534ce12c28ca04b74f063e6c61950fde9d24bd6b1c1f35be975b84bc2740",
+    "references/when-to-gather-more-data.md": "6674d03108748e2048d1c9c6f00a1f1b9d5074c4aaf0f34fa1c4adae8b8bf9bb",
+    "references/writing-for-decisions-not-decks.md": "ca931e42a56f428452838f713cc10440a9ef744b75f8daea06145336b750ff49"
+  },
+  "feature-launch-playbook": {
+    "SKILL.md": "fe366585352cf9c8c1e8ba7657c642a5460522f5f0ed0254cfdbc08e192421da",
+    "references/common-launch-failures.md": "c5089a787ac310cadafa3ad56d7b2316cc7a76f34d474af023125c5315f712df",
+    "references/customer-comms-playbook.md": "8ea5e55dbfaa568faa15ef3a7551da41dfc9e27339f95cc0c5d9aebee637876f",
+    "references/internal-alignment-checklist.md": "58d47bdf32b3f48ebe19e32622baa7577b0036cb5f2d22dddebd0b71fd2e34f7",
+    "references/launch-tier-decision.md": "c3b1bca687d9cff4d7cd108661138a40525fe313ba0c5e61fa6298fc1418b7c2",
+    "references/monitoring-readiness-checklist.md": "10a40a58f81e1ecbc43370647291503eba137bdbb4cb2f2cd873f8e573b46d54",
+    "references/positioning-canvas.md": "5107b61d9f46a036635e2aeb3420bc5f47311c9535ad94f6e1018df000494971",
+    "references/post-launch-measurement-framework.md": "1d17cf6ee149cd228cb3fa5a82e7310c97f3431722a53da4d600143847d313b9",
+    "references/rollout-strategy-patterns.md": "67bbac5da0ab465a007d0b881cf26e09b6732f86c50bc19dc39fe557de3c3d65",
+    "references/sales-enablement-template.md": "18220a442d6d25891ba1f87e771879d7d84e0c32f9ab3f41469f93d087ef76d4",
+    "references/support-readiness-checklist.md": "a2279ce0d00755d870f42032452647a77e8859232d3b9a91fb291b844e60246f"
+  },
+  "jtbd-framing": {
+    "SKILL.md": "a524eb5caafb9b8693f7d3cb3934181af3722aff6163353f7cade9b9281c56de",
+    "references/applying-jtbd-to-discovery.md": "0ca1723d35298c5b3646e93842cb299a493ad95d5fdbfcaa57a29a14d26060c4",
+    "references/applying-jtbd-to-positioning.md": "acfd6282c19b5b45cb4ac7f0dd6f9a47418f378ecf8fb14ce6f51c68f25c7173",
+    "references/applying-jtbd-to-prioritization.md": "7c6b8115ebfe5d1251c4484bcf9b1cd721a87a5728997ba46999310d0b791d8b",
+    "references/common-jtbd-failures.md": "fb2958c4d78934d440491fb0a988baf703fe47a9ca715b91f5e1382b0c914b88",
+    "references/functional-emotional-social-dimensions.md": "aa0298fa35e4dffd4b47a13f95937988f1d7c39b20298c0dbaa0331e03383936",
+    "references/hire-and-fire-criteria.md": "73322f5e9c56403798427b4d0a7bfd0c93306987f67f07df15408d101e8ee66d",
+    "references/identifying-struggling-moments.md": "6207fb9e5462b97f4c2809fc06f58b0aa7f683b9a20f9940e036d381525fdc2e",
+    "references/job-statement-structure-patterns.md": "e1e38201d6f7b642941c56af459d1f42b60c85752b987ae4d0e3880c81a9d2f6"
+  },
+  "okr-design": {
+    "SKILL.md": "515cdb283d82d3643b54a1ed453d2392abcd1fc030bc7befecb9504ef7772373",
+    "references/cascading-okrs-decisions.md": "a27278526dfdf48a1f14431de151e600f8e3491b054e393d08f3cef4c5b15a29",
+    "references/common-okr-failures.md": "768a2da98deae982d947b07fcf31ead6f053887f92a1593c63bc4472931a1d2f",
+    "references/key-result-design-patterns.md": "39edd415486c57ef35f931f1383ce0b4cefbbf4ad168d88c607fced4b2e65a3b",
+    "references/mid-quarter-recalibration.md": "1f60d8b7fbe854530bbe9ca8338a9c668a715b8bd9843f438e318ebac49ea09c",
+    "references/objective-design-patterns.md": "c5bd96cdd11e1a81cc9f1576a99fddc28cded1c2b876460c9b69159118f35c77",
+    "references/okr-anti-patterns.md": "e4931f7bde06eb5c2134603755dca001f476199d82f95de22678049f060f1830",
+    "references/okrs-vs-roadmap-vs-metrics.md": "11c57c464f825e9512292159d8d6606d380feda263361b20a1c5c17243e55677",
+    "references/review-cadence-templates.md": "e4228e0ae622d4fe222f188db30024ba852ce308905c8fa4dd56da1da4887ab4",
+    "references/scoring-discipline.md": "76427f6b4ed818e39f137172d45f76781ab90c799717d93205de6c495b199fef"
+  },
+  "pm-spec-writing": {
+    "SKILL.md": "b722c6a986e5ed959dcafe49c55c81990bb0aa5f943a27d95a1f28d9f04f6f33",
+    "references/dev-brief-template.md": "4c253a2a71243d65407de0098323fbc542ba72f03c572ed41df8c5189d2e9f31",
+    "references/feature-spec-template.md": "f9b19f192d9e65b6882e97aaf23f4b1862a46a39d2e9f8b86eb6562aec55fe13",
+    "references/prioritization-frameworks.md": "b8b7696ecc60f95d56ce2c91cf67d32b4aed6e9432db90eba319935431cd7e8a"
+  },
+  "roadmap-planning": {
+    "SKILL.md": "cc73aaaecf52b2eb3a733688c3c58a23d687dcae72103f429281d868ba6f0d9b",
+    "references/prioritization-frameworks.md": "6c8870e8f09e2d7100ce49dead148cb32fb58183690a8123854a8e93ffca656c"
+  },
+  "stakeholder-communication": {
+    "SKILL.md": "8cdcac4e301d5bbbee8b48eade16722c9c020e055b00e5e5d95cc3eb7d292351",
+    "references/update-templates.md": "fed66af683d5e0b6b88cc54734d5218584064749743df545f085d63a90823fb3"
+  },
+  "team-onboarding-playbook": {
+    "SKILL.md": "370cb58575bb11440d3f00440ca3d7b4f6860acb76711b3a53c9965bec434073",
+    "references/onboarding-checklist.md": "5309269c3f1336c51277de30f5cd8bde41aaa0b56c4c60c91cb4aae078748eb7"
+  },
+  "user-feedback-aggregation": {
+    "SKILL.md": "e9307febd1c15fff1053f1b8c1d71b39f5c6dbb7f14944edd9255a69d4839120",
+    "references/categorization-and-tagging-at-scale.md": "553db1a3dd391203f5ba15679aeafb7fbda82da3bd2575f4846eb73ab798f5e3",
+    "references/channel-source-weighting.md": "ef52441fcba6cde5597e60f017b709dc929e38536a0ade3a80e7698db0e42926",
+    "references/channel-types-and-what-each-surfaces.md": "827d2db928891369a5eb7141cbaa954c97144e3925f3dadc3b397830523790d8",
+    "references/closing-the-loop-with-users.md": "1cb55e303986d1e0da0c7cea3f3db996b68a664257f6c2c75bcb0870e3466354",
+    "references/common-feedback-aggregation-failures.md": "2f407fc55a7f14f8982cc537c357af0c02ff700b6adc9228efeac70ebede3a39",
+    "references/detecting-drift-in-feedback.md": "4358db65dfe450c9999d7e5348ac7a7d371b1a951eae3a74a2bc45768b767031",
+    "references/frequency-vs-intensity.md": "d6c255db37cb009422991992e13dee8e23ec79d0aa9f25e18a6b41752c6bae31",
+    "references/from-feedback-to-product-decision.md": "adacd5de72456e6ff69affdfd89913c4cc067ea31962590dc3b3c9790db24081",
+    "references/tooling-considerations.md": "0ac6cfce25c60d452a7cf3d3550abcb1d1fcd58a4a8af60e5a5d4d1c6f36de64"
+  },
+  "vendor-evaluation": {
+    "SKILL.md": "4a50520c60f974a37abe54928f6530f8a27126e6a311d0abc3bd7d4e5d233386",
+    "references/evaluation-rubric.md": "955546c1813905f7362ac8579aa0e33ec844dd91c18c6279a6f3e0e09ee2e553"
+  }
+}
