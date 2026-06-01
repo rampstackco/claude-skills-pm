@@ -17,6 +17,14 @@ This repo packages the universally-applicable PM workflows from the full claude-
 
 When you need adjacent disciplines (SEO, design, content, dev), pair with the other repos in the family.
 
+## Trust and security
+
+These skills are a curated PM-focused subset of
+[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) and
+follow the same review and integrity process. Each file is hashed in
+`SKILLS.lock` for verification. To report a security issue, see the
+[security policy](https://github.com/rampstackco/claude-skills/security/policy).
+
 ## The PM lifecycle
 
 <p align="center">
