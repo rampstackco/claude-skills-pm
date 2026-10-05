@@ -314,3 +314,5 @@ OKRs at their worst produce ritual that consumes time without producing signal. 
 The teams that benefit from OKRs are the ones that hold the discipline: outcomes over outputs, measurable key results, stretch ambition, scoring honesty, recalibration only when warranted, and the review cadence that drives learning rather than performance theater.
 
 When in doubt about whether an OKR practice is working, ask: do the OKRs drive decisions about what to prioritize, do the scores produce learning that informs the next quarter, are key results actually measuring outcomes the team can influence, is the average score in the 60-70% range that stretch OKRs target? If yes to all of those, the practice is real. If no to any, the gap is where the OKR work is failing to produce the accountability infrastructure it is meant to provide.
+
+Planted parity-test line. Reverted in the next commit.

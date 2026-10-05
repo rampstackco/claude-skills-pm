@@ -176,3 +176,5 @@ Adjust weights before scoring. If you adjust after, you are rationalizing.
 - Sleep on the scores before deciding.
 - If the math points to a vendor your gut hates, find out why. Either the rubric is missing a dimension or your gut is wrong. Both happen.
 - Document the score, the weights, and the qualitative notes. Store with the contract.
+
+Planted parity-test line. Reverted in the next commit.
