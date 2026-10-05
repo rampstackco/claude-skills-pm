@@ -1,10 +1,10 @@
 {
   "after-action-report": {
-    "SKILL.md": "89bcf92ced995da4701b560163775bae0168a6b55e49937c224b223edf09ba6e",
+    "SKILL.md": "97c20ae6885fc9d70e65b249070914ed919df7c5a406e8c26548ee5d3cf5749e",
     "references/aar-template.md": "b44409782f5a5cd8840b174b69a1a09ae0bb6b183cea9fab0f35fc2075a3495d"
   },
   "beta-program-management": {
-    "SKILL.md": "5142f007fa6d68c3f4cba3d689bae8748834634687b161ba5ba795b0fc3d321d",
+    "SKILL.md": "2d5442d571af2fd67c59f5357c5600f00f1614e97bb79c71db4fab76e4e176f7",
     "references/beta-onboarding-templates.md": "20a4d965287f9def6536853e00ae6310b18cc19ccfc84bf13592c46ca8bbf92e",
     "references/beta-to-ga-graduation-criteria.md": "e687ef9ed64b4e84c5f1caa339cb92088d9907ef80290e994999752a89d29a25",
     "references/beta-type-decisions.md": "2bca68ad9bde5a0977abe563111286b3d6852cd6e88b1ff6e47ef9e296860058",
@@ -28,7 +28,7 @@
     "references/writing-for-decisions-not-decks.md": "66512c8e9d7ca6cc8ed55f24754afd462a798a6fe28509138a494a88a80f1ecc"
   },
   "feature-launch-playbook": {
-    "SKILL.md": "c3d0d12ac22d2c84b11c468197af1a0ae1e0b7994be27db175aa0485b71d7bb2",
+    "SKILL.md": "4d227bae05eddf3f1f93f4eb71848aadbef0f9c4062c7ebd811a5a0758eb0ece",
     "references/common-launch-failures.md": "f23e57a272c71c1f54de80c23d2aef6df1c7826b1fe596e99d70a0b0b8a4ba32",
     "references/customer-comms-playbook.md": "38532b0c79bf233347b7aea3de0f6308d4c23b8076b6766bab12be492dd0a9df",
     "references/internal-alignment-checklist.md": "c956526d9a0b029c00600f5f6dd0ac6d1449cd46aceaaec14b9def8c808a3ec6",
@@ -41,7 +41,7 @@
     "references/support-readiness-checklist.md": "eba17b8edfcf3112e045b651b0f96977fa3534893d11872cd3b4474ea439bd56"
   },
   "jtbd-framing": {
-    "SKILL.md": "400bf8ca34f5e11979dbf336ef936e4b90ac72c9e006740a2a7cc06d8e3ba297",
+    "SKILL.md": "31dce3d89f9b078b44a4605ce625c74ca3270693724ee71fe27485a6a73452af",
     "references/applying-jtbd-to-discovery.md": "24a4f4bc22673cabe559109cec85f2b7555195b4ae2f8526bce6d6e85b55fc23",
     "references/applying-jtbd-to-positioning.md": "41f82c8fa88a8a7ef0087504f541c8bb41af990c2d28cd218dd3dcdd991eb699",
     "references/applying-jtbd-to-prioritization.md": "22855cd3a942d6470a734e62c5bff1514504be34f8b68ddd646d8e6654b4e71f",
@@ -52,7 +52,7 @@
     "references/job-statement-structure-patterns.md": "80cac04e5df9c3b27ce922d6e606e00914d899fa2df88053369c3f333fff0033"
   },
   "okr-design": {
-    "SKILL.md": "b58bfa9db5b15d67d5e0a663d62f2d2804acdb32c700130181d37996e7ef7298",
+    "SKILL.md": "cdd08906e015dc3c95f7df84114b46853760f1fe3bc8e4dcad4fd603349155fa",
     "references/cascading-okrs-decisions.md": "8b97e746534784ffe1b151bb87c2cf13ca1b92bb1e473c3fb06847cd22d9c510",
     "references/common-okr-failures.md": "c52cad5ce5ad3d2a615cd491e2b261e3f77bd1741104a0328c5a85552c844ca8",
     "references/key-result-design-patterns.md": "2effbc61c0d5890759faf550515e4bb5ca7b235e05e07d3f2be64346eb18fdcc",
@@ -64,7 +64,7 @@
     "references/scoring-discipline.md": "887182a483d8bb8deac61f4cbdbea660550c70279ab6d938b7f74813666778b4"
   },
   "pm-spec-writing": {
-    "SKILL.md": "a0863ad6146f264d311d75e2678e400930b40bf377b34403dafdf3b18246f957",
+    "SKILL.md": "17c08255d5ba55c2b531b4cfa156e68a52dfc7b8af1a014beb84e4416a13ff68",
     "references/dev-brief-template.md": "4c253a2a71243d65407de0098323fbc542ba72f03c572ed41df8c5189d2e9f31",
     "references/feature-spec-template.md": "f9b19f192d9e65b6882e97aaf23f4b1862a46a39d2e9f8b86eb6562aec55fe13",
     "references/prioritization-frameworks.md": "b8b7696ecc60f95d56ce2c91cf67d32b4aed6e9432db90eba319935431cd7e8a"
@@ -94,7 +94,7 @@
     "references/tooling-considerations.md": "ae97ffe4bbbcbb3036bb8c2c3ced470f97a311f996c209f089f5853591adea7f"
   },
   "vendor-evaluation": {
-    "SKILL.md": "99a61bca3d0d2185ac225426e506e00b7cb882a9891c59d6ba6273e16b16ac4d",
+    "SKILL.md": "44b1e50b7f52b1549d63b87a56efda49484aa94b2e86c6798b9a65c69cb6d586",
     "references/evaluation-rubric.md": "955546c1813905f7362ac8579aa0e33ec844dd91c18c6279a6f3e0e09ee2e553"
   }
 }
