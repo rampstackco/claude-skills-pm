@@ -7,7 +7,7 @@
 [![Skills](https://img.shields.io/badge/Skills-12-blue.svg)](#whats-included)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A focused 12-skill product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full catalog.
+A focused product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full catalog.
 
 ## Why a PM-focused subset
 
@@ -31,7 +31,7 @@ follow the same review and integrity process. Each file is hashed in
   <img src="assets/images/workflow.svg" alt="PM lifecycle: Discovery, Planning, Execution, Launch, Measure" width="800"/>
 </p>
 
-The 12 skills map to the 5 phases of the product management lifecycle. Skills within each phase can be used independently; the phases themselves typically run sequentially within a single product or feature cycle.
+The skills map to the 5 phases of the product management lifecycle. Skills within each phase can be used independently; the phases themselves typically run sequentially within a single product or feature cycle.
 
 ## What's included
 
@@ -90,19 +90,19 @@ Reach for the full [claude-skills](https://github.com/rampstackco/claude-skills)
 - **Adjacent skills**: experiment design, experimentation analytics, internationalization, vendor procurement for technical infrastructure
 - **Cross-discipline coordination at scale**: when one initiative spans multiple skill domains
 
-This PM subset covers 12 of the full catalog's skills.
+This PM subset covers the full catalog's core PM workflows.
 
 ## Family repos
 
 This catalog is part of the Claude Skills family. Other family repos:
 
-| Repo | Focus | Skills |
-|---|---|---|
-| [claude-skills](https://github.com/rampstackco/claude-skills) | Full catalog | All |
-| [claude-skills-starter](https://github.com/rampstackco/claude-skills-starter) | General-purpose lite | 14 |
-| [claude-skills-seo](https://github.com/rampstackco/claude-skills-seo) | SEO consulting | 12 |
-| [claude-skills-widgets](https://github.com/rampstackco/claude-skills-widgets) | UI patterns + components | 65 + 32 |
-| [awesome-claude-skills](https://github.com/rampstackco/awesome-claude-skills) | Curated discovery list | n/a |
+| Repo | Focus |
+|---|---|
+| [claude-skills](https://github.com/rampstackco/claude-skills) | Full catalog |
+| [claude-skills-starter](https://github.com/rampstackco/claude-skills-starter) | General-purpose lite |
+| [claude-skills-seo](https://github.com/rampstackco/claude-skills-seo) | SEO consulting |
+| [claude-skills-widgets](https://github.com/rampstackco/claude-skills-widgets) | UI patterns + components |
+| [awesome-claude-skills](https://github.com/rampstackco/awesome-claude-skills) | Curated discovery list |
 
 Each family repo is MIT-licensed, conforms to the [Agent Skills Specification](https://agentskills.io), and is stack-agnostic. Use the full catalog for breadth; use a specialty subset when working in one domain.
 
