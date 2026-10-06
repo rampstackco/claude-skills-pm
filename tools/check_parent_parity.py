@@ -37,7 +37,7 @@ PARENT_REF = "main"
 ROOT = Path(__file__).resolve().parent.parent
 SKILLS_DIR = ROOT / "skills"
 API = "https://api.github.com"
-USER_AGENT = "claude-skills-pm parent-parity check"
+USER_AGENT = f"{ROOT.name} parent-parity check"
 
 
 def get_json(url: str) -> dict:
