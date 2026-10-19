@@ -34,9 +34,10 @@
 
   <!-- Phase 3: Execution (orange) -->
   <circle cx="400" cy="90" r="32" fill="#ea580c" opacity="0.3" stroke="#ea580c" stroke-width="2"/>
-  <text x="400" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#fdba74">3</text>
+  <text x="400" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#fdba74">5</text>
   <text x="400" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Execution</text>
   <text x="400" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">stakeholders, onboard, vendors</text>
+  <text x="400" y="180" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">tickets, sprints</text>
 
   <!-- Phase 4: Launch (red) -->
   <circle cx="580" cy="90" r="32" fill="#dc2626" opacity="0.3" stroke="#dc2626" stroke-width="2"/>

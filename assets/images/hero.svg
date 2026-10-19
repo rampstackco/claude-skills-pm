@@ -14,7 +14,7 @@
   <text x="400" y="95" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="42" fill="#f1f5f9">Claude Skills PM</text>
 
   <!-- Tagline -->
-  <text x="400" y="135" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="18" fill="#94a3b8">12 product management skills for Claude Code</text>
+  <text x="400" y="135" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="18" fill="#94a3b8">14 product management skills for Claude Code</text>
 
   <!-- 5 phase badges, centered. 5 * 110 + 4 * 12 = 598. Left margin = (800-598)/2 = 101 -->
   <g transform="translate(101, 185)">
@@ -28,7 +28,7 @@
 
     <!-- Execution: orange -->
     <rect x="244" y="0" width="110" height="28" rx="14" fill="#ea580c" opacity="0.3"/>
-    <text x="299" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#fdba74" font-weight="500">Execution &#183; 3</text>
+    <text x="299" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#fdba74" font-weight="500">Execution &#183; 5</text>
 
     <!-- Launch: red -->
     <rect x="366" y="0" width="110" height="28" rx="14" fill="#dc2626" opacity="0.3"/>
