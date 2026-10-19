@@ -82,11 +82,11 @@ function htmlTemplate() {
 <body>
   <div class="card">
     <h1>Claude Skills PM</h1>
-    <p class="tagline">12 product management skills for Claude Code</p>
+    <p class="tagline">14 product management skills for Claude Code</p>
     <div class="badges">
       <span class="badge discovery">Discovery &middot; 2</span>
       <span class="badge planning">Planning &middot; 3</span>
-      <span class="badge execution">Execution &middot; 3</span>
+      <span class="badge execution">Execution &middot; 5</span>
       <span class="badge launch">Launch &middot; 2</span>
       <span class="badge measure">Measure &middot; 2</span>
     </div>

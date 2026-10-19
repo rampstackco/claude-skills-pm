@@ -4,7 +4,7 @@
 
 # Claude Skills PM
 
-[![Skills](https://img.shields.io/badge/Skills-12-blue.svg)](#whats-included)
+[![Skills](https://img.shields.io/badge/Skills-14-blue.svg)](#whats-included)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A focused product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full catalog.
@@ -50,13 +50,15 @@ The skills map to the 5 phases of the product management lifecycle. Skills withi
 | okr-design | Objectives and key results for teams and individuals |
 | pm-spec-writing | Writing PRDs, product specs, and engineering briefs |
 
-### Execution (3)
+### Execution (5)
 
 | Skill | Purpose |
 |---|---|
 | stakeholder-communication | Managing stakeholders, status updates, and difficult conversations |
 | team-onboarding-playbook | Onboarding new team members onto a product |
 | vendor-evaluation | Evaluating and selecting vendors and tools |
+| ticket-authoring | Bugs, tasks, stories, spikes, and epics with a definition of ready per type |
+| sprint-operations | PMO metrics, capacity, ceremonies, sprint reports, and agent-lane measurement |
 
 ### Launch (2)
 
