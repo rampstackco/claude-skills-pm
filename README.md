@@ -4,7 +4,7 @@
 
 # Claude Skills PM
 
-[![Skills](https://img.shields.io/badge/Skills-15-blue.svg)](#whats-included)
+[![Skills](https://img.shields.io/badge/Skills-16-blue.svg)](#whats-included)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A focused product management subset of [claude-skills](https://github.com/rampstackco/claude-skills). Designed for product managers, founders wearing a PM hat, and in-house teams who want PM workflow depth in Claude Code without loading the full catalog.
@@ -61,12 +61,13 @@ The skills map to the 5 phases of the product management lifecycle. Skills withi
 | ticket-authoring | Bugs, tasks, stories, spikes, and epics with a definition of ready per type |
 | sprint-operations | PMO metrics, capacity, ceremonies, sprint reports, and agent-lane measurement |
 
-### Launch (2)
+### Launch (3)
 
 | Skill | Purpose |
 |---|---|
 | feature-launch-playbook | Coordinating feature launches across engineering, design, marketing |
 | beta-program-management | Running closed and open beta programs |
+| release-management | The recurring release cycle: versioning, go/no-go, staged rollout, hotfixes, release notes |
 
 ### Measurement (2)
 

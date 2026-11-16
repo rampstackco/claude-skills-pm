@@ -41,9 +41,9 @@
 
   <!-- Phase 4: Launch (red) -->
   <circle cx="580" cy="90" r="32" fill="#dc2626" opacity="0.3" stroke="#dc2626" stroke-width="2"/>
-  <text x="580" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#fca5a5">2</text>
+  <text x="580" y="95" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#fca5a5">3</text>
   <text x="580" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Launch</text>
-  <text x="580" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">launch, beta</text>
+  <text x="580" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">launch, beta, release</text>
 
   <!-- Phase 5: Measure (green) -->
   <circle cx="720" cy="90" r="32" fill="#059669" opacity="0.3" stroke="#059669" stroke-width="2"/>
