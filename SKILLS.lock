@@ -3,6 +3,14 @@
     "SKILL.md": "97c20ae6885fc9d70e65b249070914ed919df7c5a406e8c26548ee5d3cf5749e",
     "references/aar-template.md": "b44409782f5a5cd8840b174b69a1a09ae0bb6b183cea9fab0f35fc2075a3495d"
   },
+  "backlog-triage": {
+    "SKILL.md": "dca28832d451907d2be4ec3023e693c0fb4a19fe6b11da206432528efd2ed2d4",
+    "references/aging-policy-guide.md": "e450cfcfc883f1e7a0a02e1bf4edb187601e0ce96263d1b03455392b8ae86725",
+    "references/example-triage-session.md": "6e1d4db0f70f6aae8aa8a070e73639520beb03533e34daa35048d1903fc4ce35",
+    "references/intake-template.md": "17e72c0d68d5c67858af8cee0d5b88d082ccc9b48796474ba8dd3cfd0287e656",
+    "references/scoring-template.md": "cc8ec0ad1f8e0e2dffdb1f6baf458eb89828d4b53756e57f1b4179de42286f74",
+    "references/triage-checklist.md": "c0b099b9f6cb3acd2b8ec1d6bc1956c517bb040d48270ad39d26441c3d2f60df"
+  },
   "beta-program-management": {
     "SKILL.md": "2d5442d571af2fd67c59f5357c5600f00f1614e97bb79c71db4fab76e4e176f7",
     "references/beta-onboarding-templates.md": "20a4d965287f9def6536853e00ae6310b18cc19ccfc84bf13592c46ca8bbf92e",
