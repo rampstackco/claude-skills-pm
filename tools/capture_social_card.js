@@ -82,12 +82,12 @@ function htmlTemplate() {
 <body>
   <div class="card">
     <h1>Claude Skills PM</h1>
-    <p class="tagline">15 product management skills for Claude Code</p>
+    <p class="tagline">16 product management skills for Claude Code</p>
     <div class="badges">
       <span class="badge discovery">Discovery &middot; 2</span>
       <span class="badge planning">Planning &middot; 3</span>
       <span class="badge execution">Execution &middot; 6</span>
-      <span class="badge launch">Launch &middot; 2</span>
+      <span class="badge launch">Launch &middot; 3</span>
       <span class="badge measure">Measure &middot; 2</span>
     </div>
     <p class="subtitle">Curated subset of claude-skills &middot; standalone, no MCP required</p>
